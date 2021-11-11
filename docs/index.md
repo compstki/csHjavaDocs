@@ -4,7 +4,7 @@ One more, finally. Or not? :)
 
 Now:
 
-```
+```java
 $ some 
 ```
 
