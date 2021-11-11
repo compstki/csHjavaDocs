@@ -9,3 +9,4 @@ nav:
     - crypto: crypto.md
 theme:
   name: 'readthedocs'
+  highlightjs: true
