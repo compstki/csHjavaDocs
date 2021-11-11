@@ -8,4 +8,4 @@ nav:
     - Home: index.md
     - crypto: crypto.md
 theme:
-  name: 'mkdocs'
+  name: 'readthedocs'
