@@ -6,5 +6,6 @@ repo_name: 'compstki/csHjavaDocs'
 repo_url: 'https://github.com/compstki/csHjavaDocs'
 nav:
     - Home: index.md
+    - crypto: crypto.md
 theme:
   name: 'mkdocs'
