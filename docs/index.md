@@ -1,4 +1,4 @@
-## Sample
+## Sample STK
 
 One more, finally. Or not? :)
 
