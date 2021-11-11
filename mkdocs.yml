@@ -7,6 +7,8 @@ repo_url: 'https://github.com/compstki/csHjavaDocs'
 nav:
     - Home: index.md
     - crypto: crypto.md
+    - elements: elements.md
+    - costs: costs.md
 theme:
   name: 'readthedocs'
   highlightjs: true
