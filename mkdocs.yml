@@ -1,9 +1,9 @@
 site_name: Test docs
 site_description: 'A docs test'
-site_author: 'Michael Hausenblas'
+site_author: 'B McCart'
 docs_dir: docs/
-repo_name: 'mhausenblas/mkdocs-template'
-repo_url: 'https://github.com/mhausenblas/mkdocs-template'
+repo_name: 'compstki/csHjavaDocs'
+repo_url: 'https://github.com/compstki/csHjavaDocs'
 nav:
     - Home: index.md
 theme:
