@@ -1,5 +1,5 @@
-site_name: Test docs
-site_description: 'A docs test'
+site_name: csH Java docs
+site_description: 'supporting csH Java at stkentac'
 site_author: 'B McCart'
 docs_dir: docs/
 repo_name: 'compstki/csHjavaDocs'
